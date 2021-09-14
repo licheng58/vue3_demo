@@ -67,3 +67,4 @@ exclude: /node_modules|folder_name/i // 忽略 node_modules 目录下的文件
 "# vue_demo3.0" 
 "# vue_demo3.0" 
 "# vue_demo3.0" 
+"# vue_demo_3.0" 
