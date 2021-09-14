@@ -65,3 +65,5 @@ exclude: /node_modules|folder_name/i // 忽略 node_modules 目录下的文件
 3.router.push({ path: `/product/${item.goodsId}` })
 "# vue_demo3.0" 
 "# vue_demo3.0" 
+"# vue_demo3.0" 
+"# vue_demo3.0" 
